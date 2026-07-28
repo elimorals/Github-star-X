@@ -5,3 +5,4 @@ __pycache__/
 # El cron no las necesita — usa state.json como checkpoint.
 pending.json
 dryrun-*.txt
+repos-marcados.md
