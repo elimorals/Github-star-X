@@ -1,0 +1,7 @@
+.env
+__pycache__/
+
+# Lista local de candidatos y salidas de dry-run: no van al remoto.
+# El cron no las necesita — usa state.json como checkpoint.
+pending.json
+dryrun-*.txt
