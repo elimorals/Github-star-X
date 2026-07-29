@@ -1,5 +1,5 @@
 {
-  "last_id": "2082379262481269010",
+  "last_id": "2082462501619306509",
   "starred": [
     "0-AI-UG/cate",
     "0din-ai/ai-scanner",
@@ -838,6 +838,11 @@
     "Sumanth077/ai-engineering-toolkit",
     "luongnv89/asm",
     "omkarcloud/google-maps-scraper",
-    "fcakyon/claude-codex-settings"
+    "fcakyon/claude-codex-settings",
+    "theNetworkChuck/n8n-claude-code-guide",
+    "NookieAI/PS4-Game-Scraper",
+    "ika-rwth-aachen/ros2-depth-anything-v3-trt",
+    "I-CAN-hack/pdf-mcp",
+    "visomaster/VisoMaster"
   ]
 }
