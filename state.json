@@ -1,5 +1,5 @@
 {
-  "last_id": "2083370953535279198",
+  "last_id": "2083463160808321497",
   "starred": [
     "0-AI-UG/cate",
     "0din-ai/ai-scanner",
@@ -956,6 +956,12 @@
     "Abdowaer098/Wa3r-OffSec-Kit",
     "0xsyr0/Awesome-Cybersecurity-Handbooks",
     "leodavinci1/kanbots",
-    "financial-datasets/mcp-server"
+    "financial-datasets/mcp-server",
+    "memodb-io/Acontext",
+    "reacherhq/check-if-email-exists",
+    "semantica-agi/semantica",
+    "mgechev/skills-best-practices",
+    "bmad-code-org/bmad-module-creative-intelligence-suite",
+    "yogsec/Hacking-Tools"
   ]
 }
