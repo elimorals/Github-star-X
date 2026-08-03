@@ -1,5 +1,5 @@
 {
-  "last_id": "2084281590700556533",
+  "last_id": "2084353211582829047",
   "starred": [
     "0-AI-UG/cate",
     "0din-ai/ai-scanner",
@@ -1144,6 +1144,16 @@
     "CloudAI-X/opencode-workflow",
     "K-Dense-AI/mimeographs",
     "poppy-project/poppy-humanoid",
-    "pguso/ai-agents-from-scratch"
+    "pguso/ai-agents-from-scratch",
+    "exyte/MediaPicker",
+    "dbish/DispatchMail",
+    "lablup/all-smi",
+    "OWASP/AISVS",
+    "xournalpp/xournalpp",
+    "ximinng/HiVG",
+    "kamranahmedse/developer-roadmap",
+    "lichtblick-suite/lichtblick",
+    "SvenGDK/RetroMultiTools",
+    "Root-Down-Digital/DragonSync-iOS"
   ]
 }
