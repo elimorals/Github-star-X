@@ -1,5 +1,5 @@
 {
-  "last_id": "2084104082428473355",
+  "last_id": "2084206164238123309",
   "starred": [
     "0-AI-UG/cate",
     "0din-ai/ai-scanner",
@@ -1108,6 +1108,29 @@
     "husnainfareed/awesome-ethical-hacking-resources",
     "frangelbarrera/OSINT-BIBLE",
     "huggingface/meshgen",
-    "LongQT-sea/OpenCore-ISO"
+    "LongQT-sea/OpenCore-ISO",
+    "GarethManning/education-agent-skills",
+    "FuzzyIdeas/Cling",
+    "Cawlumm/lyftr",
+    "darthnorse/dockmon",
+    "HQarroum/awesome-iot",
+    "maurodesouza/profile-readme-generator",
+    "DeepMyst/Mysti",
+    "xyphro/UsbGpib",
+    "dmachard/DNS-collector",
+    "AeternaLabsHQ/pullmd",
+    "lawve-ai/awesome-legal-skills",
+    "mithun50/openclaw-termux",
+    "codexu/note-gen",
+    "farinchan/chatery_whatsapp",
+    "evyatarmeged/Raccoon",
+    "OthmanAdi/researchclaw-skill",
+    "IAAR-Shanghai/Awesome-AI-Memory",
+    "devsforge/marketplace",
+    "perfanalytics/pose2sim",
+    "megadose/holehe",
+    "rufftruffles/spameater",
+    "gmh5225/awesome-game-security",
+    "ClaytonFarr/ralph-playbook"
   ]
 }
