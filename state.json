@@ -1,5 +1,5 @@
 {
-  "last_id": "2084557516780736641",
+  "last_id": "2084640712100852073",
   "starred": [
     "0-AI-UG/cate",
     "0din-ai/ai-scanner",
@@ -1176,6 +1176,11 @@
     "seifrajhi/awesome-platform-engineering-tools",
     "Microck/opencode-studio",
     "SadServers/sadservers",
-    "jitsucom/jitsu"
+    "jitsucom/jitsu",
+    "facebookresearch/MHR",
+    "MobileFirstLLC/social-media-hacker-list",
+    "Sharp-ML/SHARP-ML",
+    "fzn0x/watchtower",
+    "leoMirandaa/shadcn-landing-page"
   ]
 }
