@@ -1,5 +1,5 @@
 {
-  "last_id": "2085706849999855921",
+  "last_id": "2085796119259296105",
   "starred": [
     "0-AI-UG/cate",
     "0din-ai/ai-scanner",
@@ -1271,6 +1271,14 @@
     "Kuberwastaken/claurst",
     "ADScanPro/adscan",
     "memvid/claude-brain",
-    "siderolabs/omni"
+    "siderolabs/omni",
+    "reconmap/reconmap",
+    "postgres-ai/database-lab-engine",
+    "Roboparty/roboto_origin",
+    "MightyMoud/sidekick",
+    "x011/smtp-tunnel-proxy",
+    "amaancoderx/npxskillui",
+    "KrishMunot/awesome-startup",
+    "adrianhajdin/ghost-ai"
   ]
 }
