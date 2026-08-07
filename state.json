@@ -1,5 +1,5 @@
 {
-  "last_id": "2085514346721857902",
+  "last_id": "2085553252544774168",
   "starred": [
     "0-AI-UG/cate",
     "0din-ai/ai-scanner",
@@ -1235,6 +1235,15 @@
     "TomBursch/kitchenowl",
     "AnthonyGress/lab-dash",
     "veops/oneterm",
-    "WhiskeyCoder/Qwen3-Audiobook-Converter"
+    "WhiskeyCoder/Qwen3-Audiobook-Converter",
+    "dimartarmizi/web-flight-simulator",
+    "ultracontext/ultracontext",
+    "sopaco/deepwiki-rs",
+    "pranshuchittora/simvyn",
+    "ibnaleem/gosearch",
+    "shridarpatil/whatomate",
+    "alexandreborges/malwoverview",
+    "uav4geo/GeoDeep",
+    "ulab-uiuc/LLMRouter"
   ]
 }
