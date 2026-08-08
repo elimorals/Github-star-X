@@ -1,5 +1,5 @@
 {
-  "last_id": "2085796119259296105",
+  "last_id": "2085890120633155627",
   "starred": [
     "0-AI-UG/cate",
     "0din-ai/ai-scanner",
@@ -1279,6 +1279,13 @@
     "x011/smtp-tunnel-proxy",
     "amaancoderx/npxskillui",
     "KrishMunot/awesome-startup",
-    "adrianhajdin/ghost-ai"
+    "adrianhajdin/ghost-ai",
+    "AhmedBafkir/DLiPA",
+    "NHAS/reverse_ssh",
+    "ix-infrastructure/Ix",
+    "SpesRobotics/teleop",
+    "kamranahmedse/slim",
+    "alexanderwanyoike/the0",
+    "karanb192/awesome-claude-skills"
   ]
 }
