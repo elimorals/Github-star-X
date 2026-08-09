@@ -1,5 +1,5 @@
 {
-  "last_id": "2086336848075411825",
+  "last_id": "2086431808346800401",
   "starred": [
     "0-AI-UG/cate",
     "0din-ai/ai-scanner",
@@ -1332,6 +1332,11 @@
     "frappe/insights",
     "floci-io/floci-ui",
     "416rehman/DeepZero",
-    "ozeranskii/httptap"
+    "ozeranskii/httptap",
+    "sourcebot-dev/sourcebot",
+    "c0m4r/kula",
+    "flowful-ai/cad-skill",
+    "amitshekhariitbhu/llm-internals",
+    "archestra-ai/archestra"
   ]
 }
